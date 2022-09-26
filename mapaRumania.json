@@ -1,0 +1,148 @@
+{
+  "Arad" : {
+    "dis" : 366,
+    "vecinos" : {
+      "Zerind" : 75,
+      "Timisoara" : 118,
+      "Sibiu" : 140
+    }
+  },
+  "Bucharest" : {
+    "dis" : 0,
+    "vecinos" : {
+      "Urziceni" : 85,
+      "Giurgiu" : 90,
+      "Pitesti" : 101,
+      "Fagaras" : 211
+    }
+  },
+  "Craiova" : {
+    "dis" : 160,
+    "vecinos" : {
+      "Pitesti" : 138,
+      "Rimnicu" : 146,
+      "Dobreta" : 120
+    }
+  },
+  "Dobreta" : {
+    "dis" : 242,
+    "vecinos" : {
+      "Craiova" : 120,
+      "Mehadia" : 75
+    }
+  },
+  "Eforie" : {
+    "dis" : 161,
+    "vecinos" : {
+      "Hirsova" : 86
+    }
+  },
+  "Fagaras" : {
+    "dis" : 178,
+    "vecinos" : {
+      "Sibiu" : 99,
+      "Bucharest" : 211
+    }
+  },
+  "Giurgiu" : {
+    "dis" : 77,
+    "vecinos" : {
+      "Bucharest" : 90
+    }
+  },
+  "Hirsova" : {
+    "dis" : 151,
+    "vecinos" : {
+      "Urziceni" : 98,
+      "Eforie" : 86
+    }
+  },
+  "Iasi" : {
+    "dis" : 226,
+    "vecinos" : {
+      "Neamt" : 87,
+      "Vaslui" : 92
+    }
+  },
+  "Lugoj" : {
+    "dis" : 244,
+    "vecinos" : {
+      "Timisoara" : 111,
+      "Mehadia" : 70
+    }
+  },
+  "Mehadia" : {
+    "dis" : 241,
+    "vecinos" : {
+      "Lugoj" : 70,
+      "Dobreta" : 75
+    }
+  },
+  "Neamt" : {
+    "dis" : 234,
+    "vecinos" : {
+      "Iasi" : 87
+    }
+  },
+  "Oradea" : {
+    "dis" : 380,
+    "vecinos" : {
+      "Zerind" : 71,
+      "Sibiu" : 151
+    }
+  },
+  "Pitesti" : {
+    "dis" : 98,
+    "vecinos" : {
+      "Bucharest" : 101,
+      "Craiova" : 138,
+      "Rimnicu" : 97
+    }
+  },
+  "Rimnicu" : {
+    "dis" : 193,
+    "vecinos" : {
+      "Pitesti" : 97,
+      "Sibiu" : 80,
+      "Craiova" : 146
+    }
+  },
+  "Sibiu" : {
+    "dis" : 253,
+    "vecinos" : {
+      "Arad" : 140,
+      "Rimnicu" : 80,
+      "Fagaras" : 99,
+      "Oradea" : 151
+    }
+  },
+  "Timisoara" : {
+    "dis" : 329,
+    "vecinos" : {
+      "Lugoj" : 111,
+      "Arad" : 118
+    }
+  },
+  "Urziceni" : {
+    "dis" : 80,
+    "vecinos" : {
+      "Bucharest" : 85,
+      "Vaslui" : 92,
+      "Hirsova" : 98
+    }
+  },
+  "Vaslui" : {
+    "dis" : 199,
+    "vecinos" : {
+      "Iasi" : 92,
+      "Urziceni" : 142
+    }
+  },
+  "Zerind" : {
+    "dis" : 374,
+    "vecinos" : {
+      "Arad" : 75,
+      "Oradea" : 71
+    }
+  }
+}
